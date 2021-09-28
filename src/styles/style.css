@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.navbar-container {
+  background-color: #000;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-container > li {
+  display: inline;
+  background: #cce5ff;
+  margin: 5px;
+}
